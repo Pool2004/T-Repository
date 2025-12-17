@@ -1,1 +1,3 @@
-print('Hola')
+nombre = 'Jean'
+
+print(nombre)
