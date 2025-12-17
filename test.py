@@ -1,3 +1,4 @@
 nombre = 'Jean'
+profesion = 'Docente'
 
-print(nombre)
+print(nombre, profesion)
